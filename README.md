@@ -5,8 +5,8 @@ Detailed analysis can be found in the "Practical Application 1" file
 
 
 *Conclusions*
-1) Age is the best predictor, with younger users being the most likely to redeem the coupon. This has a slight asterisk, as the N for below 21 was the smallest age category studied, but had the highest likelihood.
-   
+1) Age is the best predictor, with younger users being the most likely to redeem the coupon. This has a slight asterisk, as the N for below 21 was the smallest age category studied, but had the highest likelihood. Generally, this implies that targetting a younger crowd to be a valuable segment of the market to pursue.
+2) Frequency seems to have a nearly binary split between "never" and "more than once." It would be advisable to target potential customers who visit a coffeeshop at least once per month   
 3) Income does not seem to be a good predictor of likelihood to redeem coupon.
    
 
