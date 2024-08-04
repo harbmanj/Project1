@@ -1,6 +1,8 @@
 # Practical Application
 The first practical application problem for the Berkeley Professional Certificate in AI/ML 
 
+Detailed analysis can be found in the "Practical Application 1" file
+
 
 *Conclusions*
 1) Age is the best predictor, with younger users being the most likely to redeem the coupon. This has a slight asterisk, as the N for below 21 was the smallest age category studied, but had the highest likelihood.
