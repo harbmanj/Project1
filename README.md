@@ -1,4 +1,14 @@
 # Practical Application
-The first practice problem for the Berkeley Professional Certificate in AI/ML 
+The first practical application problem for the Berkeley Professional Certificate in AI/ML 
 
 
+*Conclusions*
+1) Age is the best predictor, with younger users being the most likely to redeem the coupon. This has a slight asterisk, as the N for below 21 was the smallest age category studied, but had the highest likelihood.
+   
+3) Income does not seem to be a good predictor of likelihood to redeem coupon.
+   
+
+*Questions Moving Forward*
+1) This data is based on survey responses of a participents likelihood to redeem the coupon. It would be interesting to see the actual conversion rate. One possible explanation for the core finding is that younger users are more likely to anticipate using the voucher, but that might not materialize in the real world. 
+2) What is the lifetime value of these customers? Are those who redeem the coupon likely to become loyal customers, and if so, does that very across the different splits of drivers
+3) 
